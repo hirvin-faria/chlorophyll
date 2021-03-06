@@ -25,17 +25,17 @@
 		"activityBarBadge.background": "#15e9a2",								// Icone Barra Lateral
 		"activityBarBadge.foreground": "#022",
 
-		"statusBar.background": "#022",
+		"statusBar.background": "#0c6600",										// Background da Barra Inferior
 		"statusBar.foreground": "#bfcfcd", 										// Barra Inferior do Editor
 		"statusBarItem.hoverBackground": "#011",
 
 
 		 "sideBarTitle.foreground": "#f8f8f8",
-		 "sideBarSectionHeader.background": "#000c0c",
+		 "sideBarSectionHeader.background": "#021a1a",
 		 "sideBarSectionHeader.foreground": "#ccc",
-		 "badge.background": "#f8f8f8",
-		 "badge.foreground": "#1d1b07",
-		 "sideBar.background": "#000b0b",
+		"badge.background": "#ff50f0",
+		"badge.foreground": "#333",
+		 "sideBar.background": "#000a0a",										// Background da Barra Lateral
 		 "sideBar.foreground": "#b3b3b3",
 		 "list.inactiveSelectionBackground": "#022",
 		 "list.inactiveSelectionForeground": "#ccc",
