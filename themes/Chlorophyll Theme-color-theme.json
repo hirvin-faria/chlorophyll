@@ -5,13 +5,13 @@
 		"titleBar.activeBackground": "#011",
 		"titleBar.activeForeground": "#2a7",
 		"titleBar.inactiveBackground": "#011",
-		"titleBar.inactiveForeground": "#3b9",
+		"titleBar.inactiveForeground": "#dddddd",
 		"menubar.selectionBackground": "#022",
 		"menubar.selectionForeground": "#3b9",
 		"menu.background": "#011",
 		"menu.foreground": "#3b9",
 		"menu.separatorBackground": "#3b9",
-		"menu.selectionBackground": "#022",
+		"menu.selectionBackground": "#221a00",
 		"menu.selectionForeground": "#f8f8f8",
 		"menu.selectionBorder": "#f8f8f8",
 
@@ -21,12 +21,12 @@
 		"activityBar.activeBorder": "#f8f8f8",
 		"activityBar.activeFocusBorder": "#f8f8f8",
 		"activityBar.dropBorder": "#f8f8f8",
-		"activityBar.inactiveForeground": "#2a7",
-		"activityBarBadge.background": "#f8f8f8",
+		"activityBar.inactiveForeground": "#cccccc60", 							// Icones Inativos da Barra Lateral
+		"activityBarBadge.background": "#15e9a2",								// Icone Barra Lateral
 		"activityBarBadge.foreground": "#022",
 
 		"statusBar.background": "#022",
-		"statusBar.foreground": "#3a9",
+		"statusBar.foreground": "#bfcfcd", 										// Barra Inferior do Editor
 		"statusBarItem.hoverBackground": "#011",
 
 
